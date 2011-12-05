@@ -16,7 +16,7 @@ projects[install_profile_api] = 2.1
 projects[views] = 2.12
 projects[strongarm] = 2.0
 
-projects[fserver][location] = "http://code.developmentseed.org/fserver"
-projects[singular][location] = "http://code.developmentseed.org/fserver"
-projects[tao][location] = "http://code.developmentseed.org/fserver"
+projects[fserver][location] = "http://github.com/developmentseed/FeatureServer.git"
+projects[singular][location] = "http://github.com/developmentseed/singular.git"
+projects[tao][location] = "http://github.com/developmentseed/tao.git"
 
